@@ -11,7 +11,7 @@
 <p align="center">
     <img src="Screenshot.png" alt="Birdwatching" title="Birdwatching">
 </p>
-<p align="center">
+<p align="center" height="80px">
     <img src="validación.PNG" title="chack">
 </p>
 
