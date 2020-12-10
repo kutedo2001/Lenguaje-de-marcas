@@ -11,6 +11,9 @@
 <p align="center">
     <img src="Screenshot.png" alt="Birdwatching" title="Birdwatching">
 </p>
+<p align="center">
+    <img src="validacion.PNG" alt="Birdwatching" title="Birdwatching">
+</p>
 
 # What did I learn:
 
