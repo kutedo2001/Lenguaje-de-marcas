@@ -1,6 +1,6 @@
 html {
   font-family: 'Open Sans', sans-serif;
-  background: url(pattern.png);
+  background: url(imagenes/pattern_black.png);
 }
 
 body {
@@ -10,8 +10,6 @@ body {
   background-color: white;
   position: relative;
 }
-
-
 
 header {
   height: 150px;
@@ -30,9 +28,8 @@ h1 {
   margin: 0 0 0 32.5px;
 }
 
-
 main {
-  background: #ccc;
+  background:#ccc;
 }
 
 article {
@@ -52,8 +49,6 @@ iframe {
   margin: 0 20px 20px 0;
   max-width: 100%;
 }
-
-
 
 .further-info {
   clear: left;
@@ -77,9 +72,8 @@ iframe {
   clear: both;
 }
 
-
-
-.red-panda img {
+.red-panda img{
+  max-width: 150px;
   display: block;
   max-width: 100%;
 }
